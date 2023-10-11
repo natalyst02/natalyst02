@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hello there, welcome to my Git profile 👋
+- 👩‍💻 I'm Tuan (Natalyst) - A young man who is trying to do things that make herself proud of
+- 🔭 I’m currently working as Junior Backend and Blokchain Engineer 
+- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/natalystnguyen/)
 
 <!--
-**natalyst02/natalyst02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
