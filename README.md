@@ -1,6 +1,6 @@
 ### Hello there, welcome to my Git profile 👋
 - 👩‍💻 I'm Tuan (Natalyst) - A young man who is trying to do things that make herself proud of
-- 🔭 I’m currently working as Junior Backend and Blokchain Engineer 
+- 🔭 I’m currently working as Junior Backend and Blockchain Engineer 
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/natalystnguyen/)
 
 <!--
